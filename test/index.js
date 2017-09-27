@@ -30,7 +30,7 @@ suite('example.com', async s => {
     })
 
     t.expect(c => {
-      c.equal(c.page.header, 'Example Domain')
+      c.equal(c.page.header, 'Examplee Domain')
     })
 
   })
